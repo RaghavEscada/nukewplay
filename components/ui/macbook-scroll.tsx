@@ -171,7 +171,7 @@ export const Lid = ({
 
 
         <Image
-          src="/macbook.gif"
+          src="/nuke.png"
           alt="aceternity logo"
           fill
           className="absolute inset-0 h-full w-full rounded-lg object-cover object-left-top"
